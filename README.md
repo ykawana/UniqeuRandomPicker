@@ -1,1 +1,1 @@
-# UniqeuRandomPicker
+# UniqueRandomPicker
